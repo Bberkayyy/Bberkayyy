@@ -7,7 +7,7 @@
 
 * 🔎 I'm still learning .Net web programing.
 
-* ♟ I'm also love playing chess and continue to play on [lichess](https://lichess.org/) whenever I have time, and it's my chess profile => [b_berkay](https://lichess.org/@/b_berkay)
+* ♟ I'm also love playing chess and continue to play on [lichess](https://lichess.org/) whenever I have time, and it's my chess profile [b_berkay](https://lichess.org/@/b_berkay)
 
   <br>
 

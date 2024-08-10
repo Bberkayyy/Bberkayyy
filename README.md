@@ -3,7 +3,7 @@
 
 <br>
 
-* 📌 Berkay is here. I'm interested in everything but my first choice is .Net web development
+* 📌 Berkay is here. I'm interested in everything but my first choice is .Net development
 
 * 🔎 I'm still learning .Net web programing.
 
